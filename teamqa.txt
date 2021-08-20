@@ -1,3 +1,3 @@
-https://smashboard.public.prod.gcp.dr.dk/oversigt
-https://smashboard.public.prod.gcp.dr.dk/test-tools
-https://smashboard.public.prod.gcp.dr.dk/workflows?team=Automated%20Test&repo=automated-test
+https://smashboard.dr.dk/oversigt
+https://smashboard.dr.dk/test-tools
+https://smashboard.dr.dk/workflows?team=Automated%20Test&repo=automated-test
