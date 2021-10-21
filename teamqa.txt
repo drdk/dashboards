@@ -1,4 +1,4 @@
 https://smashboard.public.prod.gcp.dr.dk/oversigt
 https://smashboard.public.prod.gcp.dr.dk/test-tools
 https://smashboard.public.prod.gcp.dr.dk/workflows?team=Automated%20Test&repo=automated-test
-http://192.168.8.100:8080/countdown
+https://smashboard.public.prod.gcp.dr.dk/countdown
