@@ -1,3 +1,6 @@
 https://smashboard.public.prod.gcp.dr.dk/oversigt
 https://smashboard.public.prod.gcp.dr.dk/test-tools
 https://smashboard.public.prod.gcp.dr.dk/workflows?team=Automated%20Test&repo=automated-test
+https://smashboard.public.prod.gcp.dr.dk/ugk2022
+https://smashboard.public.prod.gcp.dr.dk/workflows?team=CSX&repo=csx
+https://smashboard.public.prod.gcp.dr.dk/workflows?team=CAS&repo=cas
