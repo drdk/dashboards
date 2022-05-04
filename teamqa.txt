@@ -4,3 +4,4 @@ https://smashboard.public.prod.gcp.dr.dk/workflows?team=Automated%20Test&repo=au
 https://smashboard.public.prod.gcp.dr.dk/ugk2022
 https://smashboard.public.prod.gcp.dr.dk/workflows?team=UGK%202022%20E2E&repo=ugk2022-test
 https://smashboard.public.prod.gcp.dr.dk/countdown
+https://preprod.dr.dk/nyheder/politik/resultater/folkeafstemning
