@@ -1,7 +1,7 @@
 https://smashboard.public.prod.gcp.dr.dk/oversigt
 https://smashboard.public.prod.gcp.dr.dk/test-tools
 https://smashboard.public.prod.gcp.dr.dk/workflows?team=Automated%20Test&repo=automated-test
-https://smashboard.public.prod.gcp.dr.dk/ugk2022
-https://smashboard.public.prod.gcp.dr.dk/workflows?team=UGK%202022%20E2E&repo=ugk2022-test
+https://smashboard.public.prod.gcp.dr.dk/platform3
+https://smashboard.public.prod.gcp.dr.dk/workflows?team=Platform3%20E2E&repo=platform3-test&back=/platform3
 https://smashboard.public.prod.gcp.dr.dk/countdown
 https://preprod.dr.dk/nyheder/politik/resultater/folkeafstemning
