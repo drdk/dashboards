@@ -1,4 +1,5 @@
 https://smashboard.public.prod.gcp.dr.dk/oversigt
+https://smashboard.public.prod.gcp.dr.dk/workflows?team=Team%20CAS&repo=team-cas-test
 https://smashboard.public.prod.gcp.dr.dk/platform3
 https://smashboard.public.prod.gcp.dr.dk/workflows?team=CAS&repo=cas
 https://smashboard.public.prod.gcp.dr.dk/workflows?team=Platform3%20E2E&repo=platform3-test&back=/platform3
