@@ -1,6 +1,4 @@
 https://smashboard.public.prod.gcp.dr.dk/valhal
 https://smashboard.public.prod.gcp.dr.dk/workflows?team=Valhal%20API&repo=valhal-api
 https://smashboard.public.prod.gcp.dr.dk/workflows?team=Valhal%20APP&repo=valhal-app
-https://smashboard.public.prod.gcp.dr.dk/countdown
-https://smashboard.public.prod.gcp.dr.dk/folketingsvalg
 https://statisk.dr.dk/kantinemenu
